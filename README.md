@@ -7,8 +7,11 @@ Este projeto simula um **mercado artificial** usando **Sistemas Multiagentes** c
 ## 📂 Estrutura do Projeto
 
 ├── market_model.py # Código principal com os agentes e simulação
+
 ├── requirements.txt # Dependências para execução
+
 ├── .gitignore # Ignora arquivos desnecessários
+
 └── README.md # Este arquivo
 
 ---
